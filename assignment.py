@@ -7,3 +7,4 @@ print(f"이름: {name}")
 print(f"나이: {age}")
 print(f"숫자 리스트: {numbers}")
 print(f"학생 여부: {is_student}")
+# 수정 테스트
